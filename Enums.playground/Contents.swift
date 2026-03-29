@@ -30,3 +30,5 @@ switch recipeInformation {
 case .allergens(information: let allergens):
     print("The meal includes the following allergens: \(allergens)")
 }
+
+print(Ingredient.Lettuce)
